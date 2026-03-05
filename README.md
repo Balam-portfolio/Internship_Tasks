@@ -35,7 +35,7 @@ Built regression models to quantify the relationship between advertising spend a
 ---
 
 ### Task 03 — 🔮 Customer Churn Prediction
-*Type:* Binary Classification · Machine Learning
+*Dataset:* Telecom customers 
 
 Developed a model to predict customer churn, applying feature selection, handling class imbalance, and comparing multiple classifiers to generate retention insights.
 

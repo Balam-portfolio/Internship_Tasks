@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Balam Singh Rautela
-
 ### 🏢 Data Analytics Intern [Codveda Technologies]
 
 > Exploring data, uncovering patterns, and building predictive models during my internship at Codveda Technologies.
